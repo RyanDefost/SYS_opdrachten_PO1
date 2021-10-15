@@ -1,0 +1,13 @@
+C:\Users\ryand\source\repos\Basic enemy thing\Basic enemy thing\bin\Debug\netcoreapp3.1\Basic enemy thing.exe
+C:\Users\ryand\source\repos\Basic enemy thing\Basic enemy thing\bin\Debug\netcoreapp3.1\Basic enemy thing.deps.json
+C:\Users\ryand\source\repos\Basic enemy thing\Basic enemy thing\bin\Debug\netcoreapp3.1\Basic enemy thing.runtimeconfig.json
+C:\Users\ryand\source\repos\Basic enemy thing\Basic enemy thing\bin\Debug\netcoreapp3.1\Basic enemy thing.runtimeconfig.dev.json
+C:\Users\ryand\source\repos\Basic enemy thing\Basic enemy thing\bin\Debug\netcoreapp3.1\Basic enemy thing.dll
+C:\Users\ryand\source\repos\Basic enemy thing\Basic enemy thing\bin\Debug\netcoreapp3.1\Basic enemy thing.pdb
+C:\Users\ryand\source\repos\Basic enemy thing\Basic enemy thing\obj\Debug\netcoreapp3.1\Basic enemy thing.csprojAssemblyReference.cache
+C:\Users\ryand\source\repos\Basic enemy thing\Basic enemy thing\obj\Debug\netcoreapp3.1\Basic enemy thing.AssemblyInfoInputs.cache
+C:\Users\ryand\source\repos\Basic enemy thing\Basic enemy thing\obj\Debug\netcoreapp3.1\Basic enemy thing.AssemblyInfo.cs
+C:\Users\ryand\source\repos\Basic enemy thing\Basic enemy thing\obj\Debug\netcoreapp3.1\Basic enemy thing.csproj.CoreCompileInputs.cache
+C:\Users\ryand\source\repos\Basic enemy thing\Basic enemy thing\obj\Debug\netcoreapp3.1\Basic enemy thing.dll
+C:\Users\ryand\source\repos\Basic enemy thing\Basic enemy thing\obj\Debug\netcoreapp3.1\Basic enemy thing.pdb
+C:\Users\ryand\source\repos\Basic enemy thing\Basic enemy thing\obj\Debug\netcoreapp3.1\Basic enemy thing.genruntimeconfig.cache

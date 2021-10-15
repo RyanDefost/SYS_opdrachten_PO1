@@ -1,0 +1,13 @@
+C:\Users\ryand\source\repos\GettersAndSettersOefening\GettersAndSettersOefening\bin\Debug\netcoreapp3.1\GettersAndSettersOefening.exe
+C:\Users\ryand\source\repos\GettersAndSettersOefening\GettersAndSettersOefening\bin\Debug\netcoreapp3.1\GettersAndSettersOefening.deps.json
+C:\Users\ryand\source\repos\GettersAndSettersOefening\GettersAndSettersOefening\bin\Debug\netcoreapp3.1\GettersAndSettersOefening.runtimeconfig.json
+C:\Users\ryand\source\repos\GettersAndSettersOefening\GettersAndSettersOefening\bin\Debug\netcoreapp3.1\GettersAndSettersOefening.runtimeconfig.dev.json
+C:\Users\ryand\source\repos\GettersAndSettersOefening\GettersAndSettersOefening\bin\Debug\netcoreapp3.1\GettersAndSettersOefening.dll
+C:\Users\ryand\source\repos\GettersAndSettersOefening\GettersAndSettersOefening\bin\Debug\netcoreapp3.1\GettersAndSettersOefening.pdb
+C:\Users\ryand\source\repos\GettersAndSettersOefening\GettersAndSettersOefening\obj\Debug\netcoreapp3.1\GettersAndSettersOefening.csprojAssemblyReference.cache
+C:\Users\ryand\source\repos\GettersAndSettersOefening\GettersAndSettersOefening\obj\Debug\netcoreapp3.1\GettersAndSettersOefening.AssemblyInfoInputs.cache
+C:\Users\ryand\source\repos\GettersAndSettersOefening\GettersAndSettersOefening\obj\Debug\netcoreapp3.1\GettersAndSettersOefening.AssemblyInfo.cs
+C:\Users\ryand\source\repos\GettersAndSettersOefening\GettersAndSettersOefening\obj\Debug\netcoreapp3.1\GettersAndSettersOefening.csproj.CoreCompileInputs.cache
+C:\Users\ryand\source\repos\GettersAndSettersOefening\GettersAndSettersOefening\obj\Debug\netcoreapp3.1\GettersAndSettersOefening.dll
+C:\Users\ryand\source\repos\GettersAndSettersOefening\GettersAndSettersOefening\obj\Debug\netcoreapp3.1\GettersAndSettersOefening.pdb
+C:\Users\ryand\source\repos\GettersAndSettersOefening\GettersAndSettersOefening\obj\Debug\netcoreapp3.1\GettersAndSettersOefening.genruntimeconfig.cache

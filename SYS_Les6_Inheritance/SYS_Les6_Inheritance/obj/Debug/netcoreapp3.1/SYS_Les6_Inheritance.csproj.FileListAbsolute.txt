@@ -1,0 +1,13 @@
+C:\Users\ryand\source\repos\SYS_Les6_Inheritance\SYS_Les6_Inheritance\bin\Debug\netcoreapp3.1\SYS_Les6_Inheritance.exe
+C:\Users\ryand\source\repos\SYS_Les6_Inheritance\SYS_Les6_Inheritance\bin\Debug\netcoreapp3.1\SYS_Les6_Inheritance.deps.json
+C:\Users\ryand\source\repos\SYS_Les6_Inheritance\SYS_Les6_Inheritance\bin\Debug\netcoreapp3.1\SYS_Les6_Inheritance.runtimeconfig.json
+C:\Users\ryand\source\repos\SYS_Les6_Inheritance\SYS_Les6_Inheritance\bin\Debug\netcoreapp3.1\SYS_Les6_Inheritance.runtimeconfig.dev.json
+C:\Users\ryand\source\repos\SYS_Les6_Inheritance\SYS_Les6_Inheritance\bin\Debug\netcoreapp3.1\SYS_Les6_Inheritance.dll
+C:\Users\ryand\source\repos\SYS_Les6_Inheritance\SYS_Les6_Inheritance\bin\Debug\netcoreapp3.1\SYS_Les6_Inheritance.pdb
+C:\Users\ryand\source\repos\SYS_Les6_Inheritance\SYS_Les6_Inheritance\obj\Debug\netcoreapp3.1\SYS_Les6_Inheritance.csprojAssemblyReference.cache
+C:\Users\ryand\source\repos\SYS_Les6_Inheritance\SYS_Les6_Inheritance\obj\Debug\netcoreapp3.1\SYS_Les6_Inheritance.AssemblyInfoInputs.cache
+C:\Users\ryand\source\repos\SYS_Les6_Inheritance\SYS_Les6_Inheritance\obj\Debug\netcoreapp3.1\SYS_Les6_Inheritance.AssemblyInfo.cs
+C:\Users\ryand\source\repos\SYS_Les6_Inheritance\SYS_Les6_Inheritance\obj\Debug\netcoreapp3.1\SYS_Les6_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ryand\source\repos\SYS_Les6_Inheritance\SYS_Les6_Inheritance\obj\Debug\netcoreapp3.1\SYS_Les6_Inheritance.dll
+C:\Users\ryand\source\repos\SYS_Les6_Inheritance\SYS_Les6_Inheritance\obj\Debug\netcoreapp3.1\SYS_Les6_Inheritance.pdb
+C:\Users\ryand\source\repos\SYS_Les6_Inheritance\SYS_Les6_Inheritance\obj\Debug\netcoreapp3.1\SYS_Les6_Inheritance.genruntimeconfig.cache

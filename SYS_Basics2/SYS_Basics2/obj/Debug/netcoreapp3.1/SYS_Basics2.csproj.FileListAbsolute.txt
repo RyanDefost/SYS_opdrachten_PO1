@@ -1,0 +1,13 @@
+C:\Users\ryand\source\repos\SYS_Basics2\SYS_Basics2\obj\Debug\netcoreapp3.1\SYS_Basics2.csprojAssemblyReference.cache
+C:\Users\ryand\source\repos\SYS_Basics2\SYS_Basics2\obj\Debug\netcoreapp3.1\SYS_Basics2.AssemblyInfoInputs.cache
+C:\Users\ryand\source\repos\SYS_Basics2\SYS_Basics2\obj\Debug\netcoreapp3.1\SYS_Basics2.AssemblyInfo.cs
+C:\Users\ryand\source\repos\SYS_Basics2\SYS_Basics2\obj\Debug\netcoreapp3.1\SYS_Basics2.csproj.CoreCompileInputs.cache
+C:\Users\ryand\source\repos\SYS_Basics2\SYS_Basics2\bin\Debug\netcoreapp3.1\SYS_Basics2.exe
+C:\Users\ryand\source\repos\SYS_Basics2\SYS_Basics2\bin\Debug\netcoreapp3.1\SYS_Basics2.deps.json
+C:\Users\ryand\source\repos\SYS_Basics2\SYS_Basics2\bin\Debug\netcoreapp3.1\SYS_Basics2.runtimeconfig.json
+C:\Users\ryand\source\repos\SYS_Basics2\SYS_Basics2\bin\Debug\netcoreapp3.1\SYS_Basics2.runtimeconfig.dev.json
+C:\Users\ryand\source\repos\SYS_Basics2\SYS_Basics2\bin\Debug\netcoreapp3.1\SYS_Basics2.dll
+C:\Users\ryand\source\repos\SYS_Basics2\SYS_Basics2\bin\Debug\netcoreapp3.1\SYS_Basics2.pdb
+C:\Users\ryand\source\repos\SYS_Basics2\SYS_Basics2\obj\Debug\netcoreapp3.1\SYS_Basics2.dll
+C:\Users\ryand\source\repos\SYS_Basics2\SYS_Basics2\obj\Debug\netcoreapp3.1\SYS_Basics2.pdb
+C:\Users\ryand\source\repos\SYS_Basics2\SYS_Basics2\obj\Debug\netcoreapp3.1\SYS_Basics2.genruntimeconfig.cache
